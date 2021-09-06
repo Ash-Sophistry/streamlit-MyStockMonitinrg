@@ -1,0 +1,9 @@
+yfinance
+yahoo_fin.stock_info
+
+pandas
+datetime
+
+altair
+streamlit
+
