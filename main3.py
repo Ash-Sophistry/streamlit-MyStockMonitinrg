@@ -9,7 +9,6 @@ import altair as alt
 import streamlit as st
 
 import requests
-import matplotlib as plt
 
 
 st.title('US Stock Market3')
