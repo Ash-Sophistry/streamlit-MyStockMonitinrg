@@ -1,5 +1,5 @@
 yfinance
-yahoo_fin.stock_info
+yahoo_fin
 
 pandas
 datetime
